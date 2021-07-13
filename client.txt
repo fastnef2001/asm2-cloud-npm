@@ -1,0 +1,6 @@
+
+clear
+cd client
+npx create-react-app ./
+npm install axios moment react-file-base 64 redux redux-thunk
+npm install @material-ui/core

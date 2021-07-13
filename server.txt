@@ -1,0 +1,6 @@
+clear
+cd server
+npm init -y
+npm install body-parser cors express mon goose nodemon
+npm start
+npm i dotenv
